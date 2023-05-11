@@ -3,5 +3,19 @@
   justify-content: center;
   height: 100%;
   align-items: center;
-  background-color: hsla(43, 92%, 46%, 0.879);
+  background-color: hsla(214, 29%, 89%, 0.879);
+}
+
+.login{
+  width: 100%;
+  max-width: 440px;
+  text-align: center;
+}
+
+.ancho{
+  width: 60%;
+}
+
+.button{
+  height: 50px;
 }
